@@ -1,0 +1,469 @@
+{
+  "stops" : [
+     { 
+      "1" : {
+        "arrival" : "start",
+        "day" : "monday",
+        "departure" : "08:00",
+        "station_code" : 100,
+        "station_name" : "chennai"
+      },
+      "2" : {
+        "arrival" : "12:00",
+        "day" : "monday",
+        "departure" : "23:00",
+        "station_code" : 101,
+        "station_name" : "pondicherry"
+      },
+        "3" : {
+        "arrival" : "06:30",
+        "day" : "tuesday",
+        "departure" : "20:00",
+        "station_code" : 102,
+        "station_name" : "madurai"
+      },
+        "4" : {
+        "arrival" : "04:00",
+        "day" : "wednesday",
+        "departure" : "21:30",
+        "station_code" : 103,
+        "station_name" : "kanyakumari"
+      },
+        "5" : {
+        "arrival" : "02:45",
+        "day" : "thurusday",
+        "departure" : "22:15",
+        "station_code" : 104,
+        "station_name" : "thiruvananthapuram"
+      },
+        "6" : {
+        "arrival" : "06:35",
+        "day" : "friday",
+        "departure" : "23:30",
+        "station_code" : 105,
+        "station_name" : "kozhikode"
+      },
+        "7" : {
+        "arrival" : "05:25",
+        "day" : "saturday",
+        "departure" : "22:45",
+        "station_code" : 106,
+        "station_name" : "mangalore"
+      },
+        "8" : {
+        "arrival" : "07:00",
+        "day" : "sunday",
+        "departure" : "23:15",
+        "station_code" : 107,
+        "station_name" : "madgaon"
+      },
+        "9" : {
+        "arrival" : "13:30",
+        "day" : "monday",
+        "departure" : "end",
+        "station_code" : 108,
+        "station_name" : "mumbai"
+      },
+      "stops_id" : "01"
+    },
+     {
+      "8" : {
+        "arrival" : "23:40",
+        "day" : "sunday",
+        "departure" : "end",
+        "station_code" : 100,
+        "station_name" : "chennai"
+      },
+        "7" : {
+        "arrival" : "04:00",
+        "day" : "sunday",
+        "departure" : "16:30",
+        "station_code" : 102,
+        "station_name" : "madurai"
+      },
+        "6" : {
+        "arrival" : "04:30",
+        "day" : "saturday",
+        "departure" : "20:00",
+        "station_code" : 103,
+        "station_name" : "kanyakumari"
+      },
+        "5" : {
+        "arrival" : "05:35",
+        "day" : "friday",
+        "departure" : "23:55",
+        "station_code" : 104,
+        "station_name" : "thiruvananthapuram"
+      },
+        "4" : {
+        "arrival" : "04:15",
+        "day" : "thurusday",
+        "departure" : "22:40",
+        "station_code" : 105,
+        "station_name" : "kozhikode"
+      },
+        "3" : {
+        "arrival" : "05:30",
+        "day" : "wednesday",
+        "departure" : "22:35",
+        "station_code" : 106,
+        "station_name" : "mangalore"
+      },
+        "2" : {
+        "arrival" : "07:30",
+        "day" : "tuesday",
+        "departure" : "23:15",
+        "station_code" : 107,
+        "station_name" : "madgaon"
+      },
+        "1" : {
+        "arrival" : "start",
+        "day" : "monday",
+        "departure" : "20:00",
+        "station_code" : 108,
+        "station_name" : "mumbai"
+      },
+      "stops_id" : "011"
+    },
+     {
+      "1" : {
+        "arrival" : "start",
+        "day" : "friday",
+        "departure" : "06:00",
+        "station_code" : 200,
+        "station_name" : "bengaluru"
+      },
+      "2" : {
+        "arrival" : "08:15",
+        "day" : "friday",
+        "departure" : "23:50",
+        "station_code" : 201,
+        "station_name" : "mysore"
+      },
+        "3" : {
+        "arrival" : "03:30",
+        "day" : "saturday",
+        "departure" : "23:00",
+        "station_code" : 202,
+        "station_name" : "hassan"
+      },
+        "4" : {
+        "arrival" : "03:50",
+        "day" : "sunday",
+        "departure" : "21:30",
+        "station_code" : 203,
+        "station_name" : "shivamogga"
+      },
+        "5" : {
+        "arrival" : "05:15",
+        "day" : "monday",
+        "departure" : "22:15",
+        "station_code" : 204,
+        "station_name" : "bellary"
+      },
+        "6" : {
+        "arrival" : "06:35",
+        "day" : "tuesday",
+        "departure" : "23:30",
+        "station_code" : 205,
+        "station_name" : "belagavi"
+      },
+        "7" : {
+        "arrival" : "05:00",
+        "day" : "wednesday",
+        "departure" : "21:45",
+        "station_code" : 206,
+        "station_name" : "bijapura"
+      },
+        "8" : {
+        "arrival" : "04:00",
+        "day" : "thursday",
+        "departure" : "14:15",
+        "station_code" : 207,
+        "station_name" : "pune"
+      },
+        "9" : {
+        "arrival" : "20:30",
+        "day" : "thursday",
+        "departure" : "end",
+        "station_code" : 108,
+        "station_name" : "mumbai"
+      },
+      "stops_id" : "02"
+    },
+     {
+      "9" : {
+        "arrival" : "23:30",
+        "day" : "thursday",
+        "departure" : "end",
+        "station_code" : 200,
+        "station_name" : "bengaluru"
+      },
+      "8" : {
+        "arrival" : "04:05",
+        "day" : "thursday",
+        "departure" : "18:50",
+        "station_code" : 201,
+        "station_name" : "mysore"
+      },
+        "7" : {
+        "arrival" : "04:55",
+        "day" : "wednesday",
+        "departure" : "21:45",
+        "station_code" : 202,
+        "station_name" : "hassan"
+      },
+        "6" : {
+        "arrival" : "04:30",
+        "day" : "tuesday",
+        "departure" : "22:35",
+        "station_code" : 203,
+        "station_name" : "shivamogga"
+      },
+        "5" : {
+        "arrival" : "03:55",
+        "day" : "monday",
+        "departure" : "21:55",
+        "station_code" : 204,
+        "station_name" : "bellary"
+      },
+        "4" : {
+        "arrival" : "05:25",
+        "day" : "sunday",
+        "departure" : "22:45",
+        "station_code" : 205,
+        "station_name" : "belagavi"
+      },
+        "3" : {
+        "arrival" : "04:10",
+        "day" : "saturday",
+        "departure" : "23:35",
+        "station_code" : 206,
+        "station_name" : "bijapura"
+      },
+        "2" : {
+        "arrival" : "06:00",
+        "day" : "friday",
+        "departure" : "22:40",
+        "station_code" : 207,
+        "station_name" : "pune"
+      },
+        "1" : {
+        "arrival" : "start",
+        "day" : "friday",
+        "departure" : "00:30",
+        "station_code" : 108,
+        "station_name" : "mumbai"
+      },
+      "stops_id" : "022"
+    },
+     {
+        "7" : {
+        "arrival" : "07:10",
+        "day" : "sunday",
+        "departure" : "end",
+        "station_code" : 200,
+        "station_name" : "bengaluru"
+      },
+        "6" : {
+        "arrival" : "05:15",
+        "day" : "saturday",
+        "departure" : "23:30",
+        "station_code" : 204,
+        "station_name" : "bellary"
+      },
+        "5" : {
+        "arrival" : "04:30",
+        "day" : "friday",
+        "departure" : "22:15",
+        "station_code" : 204,
+        "station_name" : "gulbarga"
+      },
+        "4" : {
+        "arrival" : "07:35",
+        "day" : "thursday",
+        "departure" : "23:45",
+        "station_code" : 205,
+        "station_name" : "hyderabad"
+      },
+        "3" : {
+        "arrival" : "10:00",
+        "day" : "wednesday",
+        "departure" : "22:15",
+        "station_code" : 206,
+        "station_name" : "nagpur"
+      },
+        "2" : {
+        "arrival" : "10:15",
+        "day" : "tuesday",
+        "departure" : "21:30",
+        "station_code" : 207,
+        "station_name" : "nashik"
+      },
+        "1" : {
+        "arrival" : "start",
+        "day" : "tuesday",
+        "departure" : "06:45",
+        "station_code" : 108,
+        "station_name" : "mumbai"
+      },
+      "stops_id" : "03"
+    },
+      {
+        "1" : {
+        "arrival" : "start",
+        "day" : "sunday",
+        "departure" : "01:00",
+        "station_code" : 200,
+        "station_name" : "bengaluru"
+      },
+        "2" : {
+        "arrival" : "08:00",
+        "day" : "sunday",
+        "departure" : "23:05",
+        "station_code" : 204,
+        "station_name" : "bellary"
+      },
+        "3" : {
+        "arrival" : "05:20",
+        "day" : "monday",
+        "departure" : "22:30",
+        "station_code" : 204,
+        "station_name" : "gulbarga"
+      },
+        "4" : {
+        "arrival" : "03:50",
+        "day" : "tuesday",
+        "departure" : "21:50",
+        "station_code" : 205,
+        "station_name" : "hyderabad"
+      },
+        "5" : {
+        "arrival" : "05:00",
+        "day" : "wednesday",
+        "departure" : "22:40",
+        "station_code" : 206,
+        "station_name" : "nagpur"
+      },
+        "6" : {
+        "arrival" : "04:50",
+        "day" : "thursday",
+        "departure" : "19:45",
+        "station_code" : 207,
+        "station_name" : "nashik"
+      },
+        "7" : {
+        "arrival" : "00:15",
+        "day" : "friday",
+        "departure" : "end",
+        "station_code" : 108,
+        "station_name" : "mumbai"
+      },
+      "stops_id" : "033"
+    },
+     {
+        "1" : {
+        "arrival" : "start",
+        "day" : "wednesday",
+        "departure" : "23:45",
+        "station_code" : 200,
+        "station_name" : "hyderabad"
+      },
+        "2" : {
+        "arrival" : "10:15",
+        "day" : "thursday",
+        "departure" : "21:30",
+        "station_code" : 204,
+        "station_name" : "vijayawada"
+      },
+        "3" : {
+        "arrival" : "04:15",
+        "day" : "friday",
+        "departure" : "22:00",
+        "station_code" : 204,
+        "station_name" : "tirupati"
+      },
+        "4" : {
+        "arrival" : "04:10",
+        "day" : "saturday",
+        "departure" : "23:45",
+        "station_code" : 205,
+        "station_name" : "coimbatore"
+      },
+        "5" : {
+        "arrival" : "05:30",
+        "day" : "sunday",
+        "departure" : "22:50",
+        "station_code" : 103,
+        "station_name" : "madurai"
+      },
+        "6" : {
+        "arrival" : "03:30",
+        "day" : "monday",
+        "departure" : "14:55",
+        "station_code" : 207,
+        "station_name" : "thanjavur"
+      },
+        "7" : {
+        "arrival" : "21:15",
+        "day" : "monday",
+        "departure" : "end",
+        "station_code" : 100,
+        "station_name" : "chennai"
+      },
+      "stops_id" : "04"
+    },
+     {
+        "7" : {
+        "arrival" : "10:00",
+        "day" : "monday",
+        "departure" : "end",
+        "station_code" : 200,
+        "station_name" : "hyderabad"
+      },
+        "6" : {
+        "arrival" : "07:15",
+        "day" : "monday",
+        "departure" : "21:50",
+        "station_code" : 204,
+        "station_name" : "vijayawada"
+      },
+        "5" : {
+        "arrival" : "06:00",
+        "day" : "sunday",
+        "departure" : "22:10",
+        "station_code" : 204,
+        "station_name" : "tirupati"
+      },
+        "4" : {
+        "arrival" : "04:20",
+        "day" : "saturday",
+        "departure" : "23:45",
+        "station_code" : 205,
+        "station_name" : "coimbatore"
+      },
+        "3" : {
+        "arrival" : "03:30",
+        "day" : "friday",
+        "departure" : "23:00",
+        "station_code" : 103,
+        "station_name" : "madurai"
+      },
+        "2" : {
+        "arrival" : "05:45",
+        "day" : "thursday",
+        "departure" : "22:45",
+        "station_code" : 207,
+        "station_name" : "thanjavur"
+      },
+        "1" : {
+        "arrival" : "start",
+        "day" : "wednesday",
+        "departure" : "23:55",
+        "station_code" : 100,
+        "station_name" : "chennai"
+      },
+      "stops_id" : "044"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "trains": [
+    {
+      "is_active": true,
+      "package_id": "01",
+      "seats_cc": 144,
+      "seats_ec": 22,
+      "seats_pc": 76,
+      "stops_id": "01",
+      "train_id": 1,
+      "train_name": "coastal_breeze",
+      "train_seat_id": "01"
+    },
+    {
+      "is_active": true,
+      "package_id": "02",
+      "seats_cc": 144,
+      "seats_ec": 22,
+      "seats_pc": 76,
+      "stops_id": "02",
+      "train_id": 2,
+      "train_name": "vijayanagar_experience ",
+      "train_seat_id": "01"
+    },
+   {
+      "is_active": true,
+      "package_id": "03",
+      "seats_cc": 144,
+      "seats_ec": 22,
+      "seats_pc": 76,
+      "stops_id": "03",
+      "train_id": 3,
+      "train_name": "deccan_dilbaug ",
+      "train_seat_id": "01"
+    },
+     {
+      "is_active": true,
+      "package_id": "04",
+      "seats_cc": 144,
+      "seats_ec": 22,
+      "seats_pc": 76,
+      "stops_id": "04",
+      "train_id": 4,
+      "train_name": "eastern_seascape ",
+      "train_seat_id": "01"
+    }
+  ]
+}
