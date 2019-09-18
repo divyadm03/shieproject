@@ -1,0 +1,88 @@
+{
+  "packages" : [
+   {
+      "class" : {
+        "club_class" : {
+          "class_name" : "club_class",
+          "class_price" : 295000,
+          "class_spa" : 1500,  
+          "class_wifi" : 500
+        },
+        "executive_class" : {
+          "class_name" : "executive_class",
+          "class_price" : 588000
+        },
+        "premier_class" : {
+          "class_name" : "premier_class",
+          "class_price" : 458000,
+          "class_spa" : 1500
+        }
+      },
+      "package_id" : "01",
+      "package_name" : "coastal"
+    },
+    {
+      "class" : {
+        "club_class" : {
+          "class_name" : "club_class",
+          "class_price" : 278000,
+          "class_spa" : 1200,
+          "class_wifi" : 500
+        },
+        "executive_class" : {
+          "class_name" : "executive_class",
+          "class_price" : 468000
+        },
+        "premier_class" : {
+          "class_name" : "premier_class",
+          "class_price" : 385000,
+          "class_spa" : 1200
+        }
+      },
+      "package_id" : "02",
+      "package_name" : "vijayanagar"
+    },
+    {
+      "class" : {
+        "club_class" : {
+          "class_name" : "club_class",
+          "class_price" : 254000,
+          "class_spa" : 1200,
+          "class_wifi" : 500
+        },
+        "executive_class" : {
+          "class_name" : "executive_class",
+          "class_price" : 456000
+        },
+        "premier_class" : {
+          "class_name" : "premier_class",
+          "class_price" : 345000,
+          "class_spa" : 1200
+        }
+      },
+      "package_id" : "03",
+      "package_name" : "deccan"
+    },
+   {
+      "class" : {
+        "club_class" : {
+          "class_name" : "club_class",
+          "class_price" : 240000,
+          "class_spa" : 1000,
+          "class_wifi" : 500
+        },
+        "executive_class" : {
+          "class_name" : "executive_class",
+          "class_price" : 384000
+        },
+        "premier_class" : {
+          "class_name" : "premier_class",
+          "class_price" : 326000,
+          "class_spa" : 1000
+        }
+      },
+      "package_id" : "04",
+      "package_name" : "eastern"
+    }
+  ]
+}
