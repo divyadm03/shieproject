@@ -9,7 +9,7 @@
         "station_name" : "chennai"
       },
       "2" : {
-        "arrival" : "12:00",
+        "arrival" : "12:00",  
         "day" : "monday",
         "departure" : "23:00",
         "station_code" : 101,

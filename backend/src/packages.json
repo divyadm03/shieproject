@@ -7,7 +7,7 @@
           "class_price" : 295000,
           "class_spa" : 1500,  
           "class_wifi" : 500
-        },
+        }, 
         "executive_class" : {
           "class_name" : "executive_class",
           "class_price" : 588000

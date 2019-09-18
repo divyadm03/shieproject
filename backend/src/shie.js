@@ -7,9 +7,9 @@ const router = express.Router();
 router.get('/trains', (req, res) => {
 	fs.readFile( __dirname + "/" + "train_name.json", 'utf8', function (err, data) {
       res.end( data );
-	});
+      });  
 }) 
-
+ 
 
 router.get('/trains/:train_id', function (req, res) {
    

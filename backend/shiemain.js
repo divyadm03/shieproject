@@ -9,7 +9,7 @@ const router = require('./src/shie')
 const app = express();
 app.set('port', 3000);
 
-app.use('/apis', router);
+app.use('/apis', router); 
 
 app.use(function (error, req, res, next) {
     res.json({ status: 'ERROR', message: error.message });

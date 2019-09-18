@@ -12,7 +12,7 @@
       "train_seat_id": "01"
     },
     {
-      "is_active": true,
+      "is_active": true,  
       "package_id": "02",
       "seats_cc": 144,
       "seats_ec": 22,
