@@ -47,9 +47,26 @@ router.get('/packages/:package_id', function (req, res) {
             } else {
                   res.status(404).send("package Not Found")
             }
-
       });
+})
 
+router.get('/stops', (req, res) => {
+      fs.readFile(__dirname + "/" + "stops.json", 'utf8', function (err, data) {
+            res.end(data);
+      });
+})
+router.get('/stops/:stops_id', function (req, res) {
+      fs.readFile(__dirname + "/" + "stops.json", 'utf8', function (err, data) {
+            var stops_id = req.params.stops_id;
+            var stp = JSON.parse(data).stops.filter(tr => {
+                  return tr["stops_id"].toString() === stops_id.toString();
+            })
+            if (stp) {
+                  res.send(stp);
+            } else {
+                  res.status(404).send("package Not Found")
+            }
+      });
 })
 
 module.exports = router;
