@@ -64,7 +64,7 @@ router.get('/stops/:stops_id', function (req, res) {
             if (stp) {
                   res.send(stp);
             } else {
-                  res.status(404).send("package Not Found")
+                  res.status(404).send("stop Not Found")
             }
       });
 })
